@@ -1,4 +1,4 @@
-# sersic-index-project
+# tde-research-project
 Phase 1:
 The project aims to find a correlation between the Sersic indices of galaxies and the TDEs occuring in the galaxy
 
